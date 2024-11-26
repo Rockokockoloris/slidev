@@ -33,18 +33,21 @@ transition: slide-up
 
 ---
 transition: slide-left
+layout: intro
 ---
 
 # Neue Infos zur Hardware
 
 ---
 transition: slide-left
+layout: intro
 ---
 
 # Was gibt es neues bei der Software?
 
 ---
 transition: slide-left
+layout: intro
 ---
 
 # Wie ist der aktuelle Stand beim Web Portal?
