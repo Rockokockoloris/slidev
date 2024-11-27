@@ -1,7 +1,7 @@
 ---
 theme: default
 
-background: https://images.unsplash.com/photo-1519606247872-0440aae9b827?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+background: ./img/Background.png
 
 title: Jahreshauptversammlung 2024
 
@@ -33,21 +33,23 @@ transition: slide-up
 
 ---
 transition: slide-left
-layout: intro
+layout: image
+image: ./img/Background.png
+class: text-center
 ---
 
 # Neue Infos zur Hardware
 
 ---
-transition: slide-left
-layout: intro
+src: ./pages/software-slides.md
+hide: false
 ---
-
-# Was gibt es neues bei der Software?
 
 ---
 transition: slide-left
-layout: intro
+layout: image
+image: ./img/Background.png
+class: text-center
 ---
 
 # Wie ist der aktuelle Stand beim Web Portal?
